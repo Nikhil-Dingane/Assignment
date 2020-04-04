@@ -1,16 +1,16 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //	Program Name: 		SearchInFile
 //	Description:		This program is used in two ways as follows:
-//						1. This program shows the cout of unique words per file
-//						2. This program shows the count of given words(one or more) per file
-//	Author:				Nikhil
-//	Created:			04/04/2020
-//	Usage:				This tool takes input throught command line argument. You can use this tool in following ways:
-//						1. To see the count of unique word per file within a directory. You have to give the path of 
-// 						   directory as first command line agument. Then it will show the count.
-//						2. To see the count of given words as per file as per above you have to give the path of directory 
-//						   as first command line and words whose count you have to see should be given as the rest of the 
-//						   command line arguments. You can give no. of words as many as you want.
+//				1. This program shows the cout of unique words per file
+//				2. This program shows the count of given words(one or more) per file
+//	Author:			Nikhil
+//	Created:		04/04/2020
+//	Usage:			This tool takes input throught command line argument. You can use this tool in following ways:
+//				1. To see the count of unique word per file within a directory. You have to give the path of 
+// 				   directory as first command line agument. Then it will show the count.
+//				2. To see the count of given words as per file as per above you have to give the path of directory 
+//				   as first command line and words whose count you have to see should be given as the rest of the 
+//				   command line arguments. You can give no. of words as many as you want.
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
